@@ -1,0 +1,25 @@
+.countryCard {
+  border: 2px solid;
+  border-radius: 20px;
+  overflow: hidden;
+  margin: 5px;
+  max-height: 220px;
+  position: relative;
+  max-width: 350px;
+
+}
+
+.cardname {
+  background-color: rgba(16, 10, 10, 0.601);
+  z-index: 10;
+  position: absolute;
+  padding: 10px 1px 6px 6px;
+  width: 100%;
+  bottom: 0;
+  color: white;
+}
+
+.cardname h1 {
+  font-size: 22px;
+  margin: 0;
+}

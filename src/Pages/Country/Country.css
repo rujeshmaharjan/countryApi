@@ -1,0 +1,40 @@
+.country-flag-wrapper {
+  width: 100%;
+  height: calc(100vh - 13vh);
+  background-color: black;
+  position: relative;
+}
+.CountryFlag {
+  object-fit: contain;
+}
+.country-details {
+  font-size: 2rem;
+  padding: 10px;
+}
+h5{
+    margin: 5px auto;
+}
+
+
+/* Button.css */
+.back-button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  
+  .back-button a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .back-button:hover {
+    background-color: #2980b9;
+    transform: scale(1.05);
+  }
+  

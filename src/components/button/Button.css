@@ -1,0 +1,11 @@
+.btton{
+    width: 150px;
+    height: 30px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: rgba(69, 71, 71, 0.489);
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight:700;
+}
